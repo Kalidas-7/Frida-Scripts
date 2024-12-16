@@ -1,2 +1,2 @@
-# Frida-Scripts
+### Frida-Scripts
 Frida Scripts Repository
